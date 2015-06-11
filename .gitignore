@@ -1,0 +1,8 @@
+src/packages/
+src/EntityFramework.BulkInsert/bin/
+src/EntityFramework.BulkInsert/obj/
+src/EntityFramework.BulkInsert.Test/obj/
+src/EntityFramework.BulkInsert.Test/bin/
+*.suo
+src/EntityFramework.BulkInsert.SqlServerCe/bin/
+src/EntityFramework.BulkInsert.SqlServerCe/obj/
